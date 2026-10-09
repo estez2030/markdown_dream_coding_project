@@ -52,3 +52,4 @@ This photo above reminds me *why* I'm building this project to help protect plac
 
 ---
 `git push` — my favorite command to share progress with the world! 🚀
+
